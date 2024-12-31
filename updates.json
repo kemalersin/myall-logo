@@ -1,8 +1,8 @@
 {
   "win32-ia32-prod": {
-    "readme": "3. parti yazılımların para birimi türünü yanlış kaydettiği cari hesapların kontrolü sağlandı.",
-    "update": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.27",
-    "install": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.27/imlogo-0.1.27-setup.exe",
-    "version": "0.1.27"
+    "readme": "İşlem dövizlerine İsviçre Frangı (CHF) eklendi.",
+    "update": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.28",
+    "install": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.28/imlogo-0.1.28-setup.exe",
+    "version": "0.1.28"
   }
 }
