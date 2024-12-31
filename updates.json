@@ -1,8 +1,8 @@
 {
   "win32-ia32-prod": {
     "readme": "İşlem dövizlerine İsviçre Frangı (CHF) eklendi.",
-    "update": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.28",
-    "install": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.28/imlogo-0.1.28-setup.exe",
-    "version": "0.1.28"
+    "update": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.29",
+    "install": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.29/imlogo-0.1.29-setup.exe",
+    "version": "0.1.29"
   }
 }
