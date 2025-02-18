@@ -1,8 +1,8 @@
 {
   "win32-ia32-prod": {
-    "readme": "TRY tutarın hatalı aktarılması sorunu düzeltildi.",
-    "update": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.30",
-    "install": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.30/imlogo-0.1.30-setup.exe",
-    "version": "0.1.30"
+    "readme": "Boş TRY tutarın 0 aktarılması sorunu düzeltildi.",
+    "update": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.31",
+    "install": "https://github.com/kemalersin/myall-logo/releases/download/win32-ia32-prod-v0.1.31/imlogo-0.1.31-setup.exe",
+    "version": "0.1.31"
   }
 }
